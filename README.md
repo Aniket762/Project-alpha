@@ -1,6 +1,6 @@
 # Project-alpha
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 The aim of the project is to include all the basic code snippets for competitive programming so that when a beginner gets stuck for any syntax or algorithm this repo will help out.  
 

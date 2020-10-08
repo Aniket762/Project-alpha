@@ -24,7 +24,7 @@ NOTE 2: Please abide by the [Code of Conduct](https://github.com/Webwiznitr/Milk
 
 <br>
 
-## The whole project will be created on basic C, Cpp ,Python and Java so beginners can also contribute.
+
 
 ## Admins 🤟🏻
 
@@ -44,5 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### The whole project will be created on basic C, Cpp ,Python and Java so beginners can also contribute.
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

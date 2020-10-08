@@ -6,10 +6,17 @@
   "commit": false,
   "contributors": [
     {
+ all-contributors/add-SayantanMaiti
+      "login": "SayantanMaiti",
+      "name": "Sayantan Maiti",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/68146055?v=4",
+      "profile": "https://github.com/SayantanMaiti",
+      
       "login": "Aniket762",
       "name": "Aniket Pal",
       "avatar_url": "https://avatars2.githubusercontent.com/u/67703407?v=4",
       "profile": "http://aliferous.xyz/",
+
       "contributions": [
         "doc"
       ]

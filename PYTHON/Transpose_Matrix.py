@@ -30,5 +30,4 @@ print("\nResult matrix B :-")
 for i in range(c): 
     for j in range(r): 
         print(B[i][j], end='  ') 
-    print()  
-    
+    print()

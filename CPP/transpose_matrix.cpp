@@ -14,7 +14,7 @@ int main(){
         }
     }
 
-    /*transpose of a matrix meaning:
+    /* transpose of a matrix means that:
         matrix[i][j] = transpose[j][i]
     */
 

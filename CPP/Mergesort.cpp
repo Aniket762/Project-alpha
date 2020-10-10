@@ -3,11 +3,11 @@
 using namespace std;
 
 
-bool cmp(int a, int b)
+bool cmp(int a, int b)/// change here to change comparison
 {
     return a<b;
 }
-void merge ( int arr[], int l,int mid, int r)
+void merge ( int arr[], int l,int mid, int r)// replace  int arr with struct arr to use sorting for structures
 {
     int temp [r-l];
     int p1=l,p2=mid;

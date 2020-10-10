@@ -25,4 +25,5 @@ def dist(n):
 # Driver code
 n = 4
 
-print(dist(n)) 
+print(dist(n))
+

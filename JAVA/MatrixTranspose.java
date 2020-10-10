@@ -1,5 +1,4 @@
-class MatrixTranspose 
-{ 
+class MatrixTranspose {
     static final int N = 4; 
       
     // This function stores transpose 
@@ -13,8 +12,7 @@ class MatrixTranspose
     } 
       
     // Driver code 
-    public static void main (String[] args) 
-    { 
+    public static void main (String[] args) {
         int A[][] = { {1, 1, 1, 1}, 
                       {2, 2, 2, 2}, 
                       {3, 3, 3, 3}, 

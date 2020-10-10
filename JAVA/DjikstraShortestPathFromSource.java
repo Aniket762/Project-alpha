@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-public class Djikstra {
+public class DjikstraShortestPathFromSource {
 	
 	public static Graph djikstraShortestPathFromSource(Graph graph, Node sourceNode) {
 		sourceNode.setDistance(0);

@@ -1,21 +1,25 @@
+import java.util.Arrays;
+
 public class MinimumPartition {
 	
-	public int calculateMinimumPartition(int[] input) {
+	public static int calculateMinimumPartition(int[] input) {
 		int min = 100000;
+		Arrays.sort(input);
 		int endIndex = input.length - 1;
-		int[] left = new int[endIndex];
+		int[] rest = new int[endIndex];
 		int[] right = new int[endIndex];
-		left[0] = input[0];
-		right[endIndex - 1] = input[endIndex];
-		
+
+		right[endIndex - 1] = input[endIndex] + input[0];
+		rest[endIndex - 1] = Arrays.stream(input).sum() - right[endIndex - 1];
+
 		for (int i = 1; i < endIndex; i++) {
 			int tempEnd = endIndex - i;
-			left[i] = input[i] + left[i - 1];
-			right[tempEnd - 1] = right[tempEnd] + input[tempEnd];
+			right[tempEnd - 1] = right[tempEnd] + input[i];
+			rest[tempEnd - 1] = rest[tempEnd] - input[i];
 		}
 		
-		for(int i = 0; i < left.length; i++) {
-			int temp = Math.abs(left[i] - right[i]);
+		for(int i = 0; i < rest.length; i++) {
+			int temp = Math.abs(rest[i] - right[i]);
 			if(temp < min) {
 				min = temp;
 			}

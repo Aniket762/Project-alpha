@@ -1,0 +1,24 @@
+A string is a one-dimensional character array that is terminated by a null character. Frequency of characters in a string is the number of times they occur in a string.
+For example −
+
+String: Football is a sport
+The frequency of alphabet o in the above string is 3
+
+A program to find the frequency of a particular alphabet is given as follows.
+#include <iostream>
+using namespace std;
+int main() {
+   char str[100] = "this string contains many alphabets";
+   char c = 'a';
+   int count = 0;
+   for(int i = 0; str[i] != '\0'; i++) {
+      if(str[i] == c)
+      count++;
+   }
+   cout<<"Frequency of alphabet "<<c<<" in the string is "<<count;
+   return 0;
+}
+
+Output
+
+Frequency of alphabet a in the string is 4

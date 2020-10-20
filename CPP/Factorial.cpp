@@ -16,7 +16,7 @@ int main() {
     if (number < 0) {
         cout << "Invalid Input. The entered number cannot be negative." << endl;
     } else if (number > 20) {
-        cout << "Invalid Input. The entered number cannot exceed 20. As 20! is lasrgest factorial result that \"unsigned long long\" data type can store." << endl;
+        cout << "Invalid Input. The entered number cannot exceed 20. As 20! is largest factorial result that \"unsigned long long\" data type can store." << endl;
     } else {
         cout << factorial(number) << endl;
     }

@@ -35,8 +35,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/SayantanMaiti"><img src="https://avatars3.githubusercontent.com/u/68146055?v=4" width="100px;" alt=""/><br /><sub><b>Sayantan Maiti</b></sub></a><br /><a href="https://github.com/Aniket762/Project-alpha/commits?author=SayantanMaiti" title="Documentation">🦊</a></td>
-    <td align="center"><a href="http://aliferous.xyz/"><img src="https://avatars2.githubusercontent.com/u/67703407?v=4" width="100px;" alt=""/><br /><sub><b>Aniket Pal</b></sub></a><br /><a href="https://github.com/Aniket762/Project-alpha/commits?author=Aniket762" title="Documentation">🦊</a></td>
+    <td align="center"><a href="https://github.com/SayantanMaiti"><img src="https://avatars3.githubusercontent.com/u/68146055?v=4" width="100px;" alt=""/><br /><sub><b>Sayantan Maiti</b></sub></a><br /><a href="https://github.com/Aniket762/Project-alpha/commits?author=SayantanMaiti" title="Fox">🦊</a></td>
+    <td align="center"><a href="http://aliferous.xyz/"><img src="https://avatars2.githubusercontent.com/u/67703407?v=4" width="100px;" alt=""/><br /><sub><b>Aniket Pal</b></sub></a><br /><a href="https://github.com/Aniket762/Project-alpha/commits?author=Aniket762" title="Fox">🦊</a></td>
 
   </tr>
 </table>
